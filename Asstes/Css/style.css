@@ -1,0 +1,164 @@
+/* Banner part start  */
+#banner .container {
+    background: url(../images/banner.png);
+    height: 550px;
+    width: 1170px;
+    margin-top: 50px;
+    background-repeat: no-repeat;
+    background-position: cover;
+}
+
+#banner .container h2 {
+    padding-top: 104px;
+    padding-left: 239px;
+    padding: auto;
+    font-size: 72px;
+    font-weight: 800;
+    color: #FFFFFF;
+    font-family: 'EB Garamond', serif;
+
+
+}
+
+span {
+    margin-left: 90px;
+}
+
+#banner .container p {
+    width: 906px;
+    padding-top: 24px;
+    font-weight: 400;
+    font-size: 16px;
+    color: #FFFFFF;
+    font-family: 'Poppins', sans-serif;
+    padding-left: 252px;
+}
+
+#banner .container p span {
+    margin-left: 90px;
+}
+/* Banner part end  */
+/* The Legal Practice Area part start  */
+.Practice_info h2{
+    text-align: center;
+    margin-top: 120px;
+    font-size: 40px;
+    font-weight: 800;  
+    color:#414040;
+    font-family: 'EB Garamond', serif;
+    
+
+}
+.Practice_info p{
+    width: 714px;
+    font-size: 16px;
+    font-weight: 400;
+    font-family: 'Poppins', sans-serif;
+    margin-left: 331px;
+
+}
+.Practice_info p span{
+    margin-left: 120px;
+}
+
+.Practice_card .card-group .card img{
+    height:71px;
+    width: 71px;
+    margin-top: 56px;
+    margin-left: 169px;
+    
+}
+.Practice_card .card-group .card-body h5{
+    font-size: 32px;
+    font-weight: 800;
+    font-family: 'EB Garamond', serif;
+    color: #414040;
+    text-align: center;
+    padding-top: 32px;
+
+}
+.Practice_card .card-group .card-body p{
+    font-size: 16px;
+    font-weight: 400;
+    color:  #707070;
+    padding-top: 24px;
+    width: 258px;
+    font-family: 'Poppins', sans-serif;
+    text-align: center;
+    margin-left: 71px;
+
+}
+.Practice_card .card-group .card-body a img{
+    height: 32px;
+    width: 32px;
+    
+
+}
+.container .Client_info h2{
+    font-size: 40px;
+    font-weight: 800;
+    color:  #414040;
+    text-align: center;
+    margin-top: 120px;
+    font-family: 'EB Garamond', serif;
+} 
+.container .Client_info p {
+    width: 714px;
+    font-size: 16px;
+    font-weight: 400;
+    font-family: 'Poppins', sans-serif;
+    margin-left: 331px;
+}
+.container .Client_info p span{
+    margin-left: 120px;
+}
+
+/* The Legal Practice Area part  End   */
+/* Frequently Asked Any Questions part start  */
+.container h2{
+    font-size: 40px;
+    font-weight: 800;
+    font-family: 'EB Garamond', serif;
+    color: #414040;
+    text-align: center;
+    padding-top: 120px;
+
+}
+.container p{
+    width: 714px;
+    font-size: 16px;
+    font-weight: 400;
+    font-family: 'Poppins', sans-serif;
+    margin-left: 331px;
+    padding-top: 24px;
+    position: relative;
+    
+}
+.container p span{
+    margin-left: 120px;
+}
+.container .col-lg-6 img {
+    margin-left: 680px;
+    position: absolute;
+    bottom: -3400px;
+}
+/* Frequently Asked Any Questions part  End   */
+/* Footer part start */
+.container .foot_info{
+    height: 506px;
+    
+    background-color: rgb(0, 0, 0);
+}
+.container .foot_info img{
+    color: #FFFFFF;
+    margin-left: 320px;
+    margin-top: 120px;
+}
+.container .foot_info p{
+    font-size: 16px;
+    font-weight:400 ;
+    color: #CFCFCF;
+    width: 259px;
+    line-height: 26px;
+}
+/* Footer part  End  */
